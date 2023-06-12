@@ -1,0 +1,18 @@
+
+----===== projeto de autenticação
+
+pacotes instalado:
+node
+npm
+nvm
+insomnia
+
+
+dentro do projeto:
+npm install -g sequelize-cli
+
+npm install bcryptjs
+
+
+
+
