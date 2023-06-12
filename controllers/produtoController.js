@@ -1,6 +1,7 @@
 const ProdutoService = require('../services/produtoService')
 const produtoService = new ProdutoService()
 
+
 class ProdutoController {
     static async cadastrarProduto(req, res) {
         const { nome, descricao, preco } = req.body

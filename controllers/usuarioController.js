@@ -14,8 +14,8 @@ class UsuarioController {
             res.status(400).send({ message: error.message})
         }
     }
-    //teste
+    //teste...
 
-}
+} 
 
 module.exports = UsuarioController
